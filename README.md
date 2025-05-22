@@ -154,7 +154,7 @@ Si este dataset te ha sido útil y deseas apoyar su desarrollo, puedes contribui
 
 > Puedes usar cualquier billetera compatible con direcciones Taproot (P2TR), como Muun, Sparrow o BlueWallet.
 
-![BTC QR](assets/donacion_btc.png)
+<img src="assets/donacion_btc.png" alt="BTC QR" width="200"/>
 
 ---
 
@@ -165,7 +165,7 @@ Si este dataset te ha sido útil y deseas apoyar su desarrollo, puedes contribui
 
 > Puedes usar billeteras como Feather Wallet, Monerujo o Cake Wallet.
 
-![XMR QR](assets/donacion_xmr.png)
+<img src="assets/donacion_xmr.png" alt="XMR QR" width="200"/>
 
 ---
 
