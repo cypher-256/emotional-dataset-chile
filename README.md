@@ -150,17 +150,23 @@ Si este dataset te ha sido útil y deseas apoyar su desarrollo, puedes contribui
 ### Bitcoin (BTC – On-chain)
 
 **Dirección:**  
-![BTC QR](assets/donacion_btc.png)
 `bc1p2t0gfxe3c0yw3rm3mdpgkrqwrpphgklhdt55lus3lmp4e86ljhnq4qkmp6`
 
-Puedes usar cualquier billetera compatible con direcciones tipo taproot (P2TR).
+> Puedes usar cualquier billetera compatible con direcciones Taproot (P2TR), como Muun, Sparrow o BlueWallet.
+
+![BTC QR](assets/donacion_btc.png)
+
 ---
 
 ### Monero (XMR – Anónimo)
 
-**Dirección:**
-![XMR QR](assets/donacion_xmr.png)
+**Dirección:**  
 `44dS68RZrCY2cnoEWZYhtJJ3DXY52x75D2kCTLqffhpTWCFJUcty89W2VVUKCqE4J4WH8dnUJHCT1XQsXFkEKNyvQzqx8ar`
+
+> Puedes usar billeteras como Feather Wallet, Monerujo o Cake Wallet.
+
+![XMR QR](assets/donacion_xmr.png)
+
 ---
 
 Gracias por apoyar el software libre y la investigación abierta.
