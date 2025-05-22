@@ -101,13 +101,14 @@ print(valencia_df.head())
 
 print("\nEjemplos - AROUSAL:")
 print(arousal_df.head())
+```
 
 ## 🏠 Ejemplo de uso local
 
 1. Clona el repositorio:
     ```bash
     git clone https://github.com/cypher-256/emotional-dataset-chile
-```
+    ```
 
 2. Clona el repositorio:
     ```python
@@ -136,4 +137,3 @@ print(arousal_df.head())
     print("\nEjemplos – AROUSAL:")
     print(arousal_df.head())
     ```
-    
