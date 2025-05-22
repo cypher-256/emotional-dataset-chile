@@ -110,7 +110,7 @@ print(arousal_df.head())
     git clone https://github.com/cypher-256/emotional-dataset-chile
     ```
 
-2. Clona el repositorio:
+2. Usa el dataset con su ruta local:
     ```python
     from datasets import load_dataset
     import pandas as pd
