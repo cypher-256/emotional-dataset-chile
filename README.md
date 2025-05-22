@@ -154,7 +154,7 @@ Si este dataset te ha sido útil y deseas apoyar su desarrollo, puedes contribui
 
 > Puedes usar cualquier billetera compatible con direcciones Taproot (P2TR), como Muun, Sparrow o BlueWallet.
 
-<img src="assets/donacion_btc.png" alt="BTC QR" width="200"/>
+<img src="https://raw.githubusercontent.com/cypher-256/emotional-dataset-chile/main/assets/donacion_btc.png" alt="BTC QR" width="200"/>
 
 ---
 
@@ -165,7 +165,7 @@ Si este dataset te ha sido útil y deseas apoyar su desarrollo, puedes contribui
 
 > Puedes usar billeteras como Feather Wallet, Monerujo o Cake Wallet.
 
-<img src="assets/donacion_xmr.png" alt="XMR QR" width="200"/>
+<img src="https://raw.githubusercontent.com/cypher-256/emotional-dataset-chile/main/assets/donacion_xmr.png" alt="XMR QR" width="200"/>
 
 ---
 
