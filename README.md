@@ -70,3 +70,68 @@ Each file follows the JSON Lines format (`.jsonl`), with one JSON object per lin
   "arousal": 0.91
 }
 ```
+
+---
+
+## 🧪 Ejemplo de uso HF
+
+```python
+from datasets import load_dataset
+import pandas as pd
+
+# Cargar la configuración de valencia
+valencia_ds = load_dataset(
+    "cypher-256/emotional-dataset-chile",
+    "valencia",
+    trust_remote_code=True
+)
+valencia_df = pd.DataFrame(valencia_ds["train"])
+
+# Cargar la configuración de arousal
+arousal_ds = load_dataset(
+    "cypher-256/emotional-dataset-chile",
+    "arousal",
+    trust_remote_code=True
+)
+arousal_df = pd.DataFrame(arousal_ds["train"])
+
+# Mostrar los primeros registros
+print("Ejemplos - VALENCIA:")
+print(valencia_df.head())
+
+print("\nEjemplos - AROUSAL:")
+print(arousal_df.head())
+
+## 🏠 Ejemplo de uso local
+
+1. Clona el repositorio:
+    ```bash
+    git clone https://github.com/cypher-256/emotional-dataset-chile
+```
+2. Carga los datos:
+    ```python
+    from datasets import load_dataset
+    import pandas as pd
+
+    # Carga local como si fuera JSON Lines
+    valencia_ds = load_dataset(
+        "json",
+        data_files="emotional-dataset-chile/valencia_dataset.jsonl",
+        split="train"
+    )
+    arousal_ds = load_dataset(
+        "json",
+        data_files="emotional-dataset-chile/arousal_dataset.jsonl",
+        split="train"
+    )
+
+    # Convierte a DataFrame
+    valencia_df = pd.DataFrame(valencia_ds)
+    arousal_df  = pd.DataFrame(arousal_ds)
+
+    print("Ejemplos – VALENCIA:")
+    print(valencia_df.head())
+
+    print("\nEjemplos – AROUSAL:")
+    print(arousal_df.head())
+    ```
