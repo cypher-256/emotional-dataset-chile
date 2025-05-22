@@ -108,7 +108,8 @@ print(arousal_df.head())
     ```bash
     git clone https://github.com/cypher-256/emotional-dataset-chile
 ```
-2. Carga los datos:
+
+2. Clona el repositorio:
     ```python
     from datasets import load_dataset
     import pandas as pd
@@ -135,4 +136,3 @@ print(arousal_df.head())
     print("\nEjemplos – AROUSAL:")
     print(arousal_df.head())
     ```
-    
