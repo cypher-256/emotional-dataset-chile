@@ -1,3 +1,22 @@
+---
+annotations_creators:
+- manual
+language:
+- es
+license: mit
+multilinguality: monolingual
+pretty_name: Emotional Dataset Chile
+task_categories:
+- text-classification
+task_ids:
+- sentiment-classification
+tags:
+- valence
+- arousal
+- spanish
+- chile
+---
+
 # Emotional Dataset Chile
 
 Este repositorio contiene un conjunto de datos emocional en español chileno, curado para tareas de regresión continua en valencia y arousal. Fue desarrollado como parte de un proyecto experimental enfocado en el entrenamiento de modelos multitarea con BERT y LoRA.
