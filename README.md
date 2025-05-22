@@ -137,3 +137,31 @@ print(arousal_df.head())
     print("\nEjemplos – AROUSAL:")
     print(arousal_df.head())
     ```
+
+
+---
+
+---
+
+## 💸 Donaciones
+
+Si este dataset te ha sido útil y deseas apoyar su desarrollo, puedes contribuir con una donación en Bitcoin o Monero. Estas contribuciones ayudan a mantener y expandir recursos abiertos para el procesamiento del lenguaje en español chileno.
+
+### Bitcoin (BTC – On-chain)
+
+**Dirección:**  
+![BTC QR](assets/donacion_btc.png)
+`bc1p2t0gfxe3c0yw3rm3mdpgkrqwrpphgklhdt55lus3lmp4e86ljhnq4qkmp6`
+
+Puedes usar cualquier billetera compatible con direcciones tipo taproot (P2TR).
+---
+
+### Monero (XMR – Anónimo)
+
+**Dirección:**
+![XMR QR](assets/donacion_xmr.png)
+`44dS68RZrCY2cnoEWZYhtJJ3DXY52x75D2kCTLqffhpTWCFJUcty89W2VVUKCqE4J4WH8dnUJHCT1XQsXFkEKNyvQzqx8ar`
+---
+
+Gracias por apoyar el software libre y la investigación abierta.
+
