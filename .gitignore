@@ -174,3 +174,6 @@ cython_debug/
 .pypirc
 __init__.py
 donations.py
+
+valencia_dataset1.jsonl
+arousal_dataset1.jsonl
